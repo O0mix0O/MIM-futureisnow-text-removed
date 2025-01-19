@@ -1,0 +1,17 @@
+{
+  "name": "futureisnowoldman-text-removed",
+  "version": "1.0.0-test1",
+  "private": true,
+  "dependencies": {
+    "archiver": "^7.0.1"
+  },
+  "scripts": {
+    "build": "node build.js"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  }
+}
