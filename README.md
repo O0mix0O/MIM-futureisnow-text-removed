@@ -21,3 +21,5 @@ Currently, it removes the following tooltip text:
 - **In a future update, you will be able to see where your bonuses come from.**
 
 These are automatically removed from tooltips like the **Successful Cook Chance** tooltip, the **Preserve Resources Chance** tooltip, and others like **Double Item Chance**.
+
+.
